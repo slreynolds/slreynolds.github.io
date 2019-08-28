@@ -2,7 +2,7 @@
 
 ## Tools
 
-* [generateTypes](slreynolds.github.io/generateTypes) (2019) - small tool to generate Typescript Types from JSON files
+* [generateTypes](https://slreynolds.github.io/generateTypes) (2019) - small tool to generate Typescript Types from JSON files
 
 ## Visualizations
 
